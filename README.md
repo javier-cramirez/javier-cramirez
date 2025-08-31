@@ -1,5 +1,5 @@
-# Hi. I like probability, stochastic processes, and all kinds of related math.
-# Recently, I've been exploring reinforcement learning and its applications in reasoning.
+ Hi. I like probability, stochastic processes, and all kinds of related math.
+ Recently, I've been exploring reinforcement learning and its applications in reasoning.
 <!--
 **javier-cramirez/javier-cramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
