@@ -1,6 +1,6 @@
  Hi. I like probability, stochastic processes, and all kinds of related math.
  
- Recently, I've been exploring reinforcement learning and its applications in reasoning.
+ Recently, I've been exploring reinforcement learning and its applications in reasoning LMs. 
 
  Currently:
  - implementing GRPO
