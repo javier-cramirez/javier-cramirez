@@ -2,6 +2,8 @@
  
  Recently, I've been exploring reinforcement learning and its applications in reasoning LMs.
 
+ catch me surfing arXiv for fun
+
 
  shoutout `NeMo-RL`, shoutout `verl`
 <!--
