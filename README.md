@@ -1,12 +1,7 @@
  Hi. I like probability, stochastic processes, and all kinds of related math.
  
- Recently, I've been exploring reinforcement learning and its applications in reasoning LMs. 
+ Recently, I've been exploring reinforcement learning and its applications in reasoning LMs.
 
- Currently:
- - implementing GRPO
- - understanding VAPO, DAPO
- - reading RL theory
- - building a small video captioning model
 
  shoutout `NeMo-RL`, shoutout `verl`
 <!--
