@@ -2,8 +2,7 @@
  
  Recently, I've been exploring reinforcement learning and its applications in reasoning LMs.
 
- **When I'm sad, I remind myself to make others happy! I also like to listen to some good music.
- That's why I'm here on this beautiful Earth. :)**
+**Don't ever let yourself down! Enjoy this beautiful Earth! If someone brings you down, show them compassion. Never yield to fear. :)*
 
 <!--
 **javier-cramirez/javier-cramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
