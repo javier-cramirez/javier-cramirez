@@ -2,7 +2,7 @@
  
  Recently, I've been exploring reinforcement learning and its applications in reasoning LMs.
 
-**Don't ever let yourself down! Enjoy this beautiful Earth! If someone brings you down, show them compassion. Never yield to fear. :)*
+**Don't ever let yourself down! Enjoy this beautiful Earth! If someone brings you down, show them compassion. Never yield to fear. :)**
 
 <!--
 **javier-cramirez/javier-cramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
