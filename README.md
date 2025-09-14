@@ -2,7 +2,7 @@
  
  Recently, I've been exploring reinforcement learning and its applications in reasoning LMs.
 
- **When I'm sad, I remind myself to make others happy! I love seeing a happy person! 
+ **When I'm sad, I remind myself to make others happy! I also like to listen to some good music.
  That's why I'm here on this beautiful Earth. :)**
 
 <!--
