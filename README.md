@@ -2,8 +2,8 @@
  
  Recently, I've been exploring reinforcement learning and its applications in reasoning LMs.
 
- *When I'm sad, I remind myself to make others happy! I love seeing a happy person! 
- That's why I'm here on this Earth. :)*
+ **When I'm sad, I remind myself to make others happy! I love seeing a happy person! 
+ That's why I'm here on this beautiful Earth. :)**
 
 <!--
 **javier-cramirez/javier-cramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
