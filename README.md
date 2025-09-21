@@ -1,6 +1,7 @@
 hi
  
- Recently, I've been exploring reinforcement learning and its applications in reasoning LMs. Diffusion language models are cool too (let's go to the moon!)
+ Recently, I've been exploring reinforcement learning and its applications in reasoning LMs. 
+ Diffusion language models are cool, too (to the moon!)
 
 **Music enjoyer (bonus points if you can guess the singer in my profile pic), and always willing to help people do good.**
 <!--
