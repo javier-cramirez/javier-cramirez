@@ -2,7 +2,7 @@ hi
  
  Recently, I've been exploring reinforcement learning and its applications in reasoning LMs.
 
-**Lover of good music (bonus points if you can guess the singer in my profile pic), and always willing to help people do good.**
+**Music enjoyer (bonus points if you can guess the singer in my profile pic), and always willing to help people do good.**
 <!--
 **javier-cramirez/javier-cramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
