@@ -4,7 +4,7 @@ hi
  
  Diffusion language models are cool, too (✨to the moon!!!)
 
-**Music enjoyer (bonus points if you can guess the singer in my profile pic), and always willing to help people do good.**
+**Music enjoyer and very fond of open source audio applications (bonus points if you can guess the singer in my profile pic), and always willing to help people do good.**
 <!--
 **javier-cramirez/javier-cramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
