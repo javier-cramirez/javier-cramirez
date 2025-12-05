@@ -2,7 +2,7 @@ hi
  
  Recently, I've been exploring reinforcement learning and its applications in reasoning LMs. 
 
- I am trying to get into audio engineering --- currently a mixing noob
+ I am trying to get into audio engineering --- currently a mixing n00b
  
 **Bonus points if you can guess the singer in my profile pic! Always willing to help people do good...**
 <!--
