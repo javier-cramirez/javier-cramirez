@@ -1,6 +1,6 @@
 hi
  
- Recently, I've been exploring reinforcement learning and its applications in reasoning LMs. 
+ Exploring reinforcement learning and its applications in reasoning LMs. 
 
  I also am trying to *get* into sound --- currently a mixing n00b
  
