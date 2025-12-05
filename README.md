@@ -4,7 +4,7 @@ hi
 
  I am trying to get into audio engineering --- currently a mixing noob
  
-**Music enjoyer (bonus points if you can guess the singer in my profile pic), and always willing to help people do good.**
+**Bonus points if you can guess the singer in my profile pic! Always willing to help people do good...**
 <!--
 **javier-cramirez/javier-cramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
