@@ -1,10 +1,8 @@
-hi
+hihi
  
- Exploring reinforcement learning and its applications in reasoning LMs. 
-
- I also am trying to *get* into sound --- currently a mixing n00b
+ I *love* sound --- currently a mixing n00b
  
-**Bonus points if you can guess the singer in my profile pic! Always willing to help people do good...**
+**Bonus points if you can guess the singer in my profile pic!**
 <!--
 **javier-cramirez/javier-cramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
