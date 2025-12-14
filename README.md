@@ -1,6 +1,7 @@
-hihi
  
- I *love* sound --- currently a mixing n00b
+ I *love* sound --- ask me about anything (music, mixing, signal processing, etc.)
+ 
+ Deep learning is also cool.. I suppose.
  
 **Bonus points if you can guess the singer in my profile pic!**
 <!--
