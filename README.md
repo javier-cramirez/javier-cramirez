@@ -1,7 +1,8 @@
  
  I *love* sound --- ask me about anything (music, mixing, signal processing, etc.)
+
+ bonus points if you can guess the singer in my profile pic!
  
-![hippo](https://media.tenor.com/-ls4nztXffAAAAAM/super-mario-rockstar.gif)
 <!--
 **javier-cramirez/javier-cramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
