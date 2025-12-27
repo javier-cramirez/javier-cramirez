@@ -1,6 +1,6 @@
- **math is for everyone!**
+ **seek and ye shall find**
  
- I also *love* sound --- ask me about anything (music, mixing, signal processing, etc.)
+ I *love* sound --- ask me about anything (music, mixing, signal processing, etc.)
 
  
 <!--
