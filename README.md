@@ -1,6 +1,5 @@
-# hmpfffff..
  
- I *love* sound --- ask me about anything (music, mixing, signal processing, etc.)
+ I *love* sound
 
  
 <!--
