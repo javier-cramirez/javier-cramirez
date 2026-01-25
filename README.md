@@ -1,6 +1,5 @@
  
- I *love* sound
-
+This place is filled with random stuff. However, it is *my* random stuff 😄
  
 <!--
 **javier-cramirez/javier-cramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
