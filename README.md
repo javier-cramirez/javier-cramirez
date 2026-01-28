@@ -1,5 +1,5 @@
  
-This place is filled with random stuff. However, this is *my* random stuff 😄
+This place is filled with random junk. However, this is *my* random junk 😄
  
 <!--
 **javier-cramirez/javier-cramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
