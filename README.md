@@ -1,5 +1,5 @@
  
-# This place is filled with random junk. However, this is *my* random junk 😄
+## This place is filled with random junk. However, this is *my* random junk 😄
 
 Passionate about audio, self-learning, and random processes.
  
