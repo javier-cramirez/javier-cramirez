@@ -1,5 +1,4 @@
- 
-## This place is filled with random junk. However, this is *my* random junk 😄
+## junk 😄
 
  
 <!--
