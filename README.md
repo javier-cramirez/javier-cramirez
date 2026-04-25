@@ -1,4 +1,4 @@
-Larping reinforcement learning. 
+Just put your crappy trajectory in the replay buffer lil bro
 
 <!--
 **javier-cramirez/javier-cramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
